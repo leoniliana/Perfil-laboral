@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iliana León - Perfil Profesional</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            color: #333;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .section p, .section ul {
+            line-height: 1.6;
+        }
+        .contact-info {
+            background: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        .contact-info a {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Iliana León</h1>
+            <p>Ingeniera en Tecnologías de la Información y Servicios</p>
+        </header>
+        <div class="section">
+            <h2>Resumen</h2>
+            <p>Soy una profesional apasionada por la tecnología con experiencia en el desarrollo y la implementación de soluciones innovadoras en el sector de la información y los servicios. Mi objetivo es seguir creciendo en un entorno dinámico donde pueda aportar mis conocimientos y habilidades para el éxito de la organización.</p>
+        </div>
+        <div class="section">
+            <h2>Experiencia</h2>
+            <h3>Analista de Sistemas | Empresa X</h3>
+            <p>Febrero 2020 - Presente</p>
+            <ul>
+                <li>Desarrollo e implementación de soluciones tecnológicas para optimizar procesos internos.</li>
+                <li>Colaboración con equipos multidisciplinarios para la integración de sistemas.</li>
+                <li>Mantenimiento y soporte técnico de plataformas informáticas.</li>
+            </ul>
+            <h3>Desarrolladora de Software | Empresa Y</h3>
+            <p>Junio 2017 - Enero 2020</p>
+            <ul>
